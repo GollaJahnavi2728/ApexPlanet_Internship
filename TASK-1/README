@@ -1,1 +1,72 @@
+# 🌐 Personal Web Page – Internship Task-1 by Golla Jahnavi
 
+This is a simple yet interactive personal web page developed as **Task-1** for the **ApexPlanet Web Development Internship**. It demonstrates basic frontend skills including HTML, CSS, and JavaScript.
+
+---
+
+## 📌 About the Project
+
+A responsive and interactive webpage that introduces **Golla Jahnavi**, showcasing dynamic effects such as typing animation, quote generator, dark mode toggle, and personalized alerts.
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5** – Page structure and semantic layout
+- **CSS3** – Styling, responsiveness, and hover effects
+- **JavaScript** – Functionality and interactivity
+
+---
+
+## 🚀 Features
+
+- 🔠 **Typing animation** for the welcome message
+- 📜 **Random quote generator** each time you reload
+- 👋 **Say Hello** alert
+- ⏰ **Current time** display on click
+- 🌗 **Dark mode toggle** with smooth transitions
+- 📱 **Responsive design** for mobile & desktop
+- 🔗 **Links to LinkedIn and GitHub**
+- 🎨 **Hover effects and button interactivity**
+
+---
+
+## 📁 Files Included
+
+```
+📦 Project Folder
+├── index.html   // Main webpage file
+├── style.css    // Styling for layout, buttons, and dark mode
+├── script.js    // JavaScript functions and effects
+```
+
+---
+
+## 🧪 How to Use
+
+1. Download or clone the repository.
+2. Open `index.html` in any browser.
+3. Try clicking the buttons to see interactions.
+4. Resize the browser to check mobile responsiveness.
+
+---
+
+## 👩‍💻 About Me – Golla Jahnavi
+
+- 🎓 B.Tech Student
+- 💻 Front-End Developer in Training
+- 🌱 Passionate about creative design and JavaScript
+- 🧑‍💼 Internship at ApexPlanet
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/golla-jahnavi-2728j)
+- [GitHub](https://github.com/GollaJahnavi2728)
+
+
+
+## 📄 Copyright
+
+© 2025 Golla Jahnavi – All Rights Reserved.
